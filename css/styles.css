@@ -1,3 +1,10 @@
+.my-class {
+  margin: 20px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
+
 h1 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   margin: 20 px;
@@ -38,4 +45,10 @@ ol {
 
 .exclude {
   font-style: italic;
+}
+
+.img {
+  float: left;
+  margin: 200px;
+  border: 2px solid black;
 }
