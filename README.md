@@ -1,12 +1,12 @@
-# _Portfolio_
+# _Spring Campaign Landing Page_
 
-#### _This is a webpage about my work_
+#### _This is a mock up of the Spring Campaign Landing Page_
 
 #### By _**Claire Sakaguchi**_
 
 ## Description
 
-This is a webpage that hosts a series of projects by Claire Sakaguchi and is intended to communicate information about her work.
+This page is a prototype of the barre3 Spring Campaign landing page created as a demo.
 
 
 
