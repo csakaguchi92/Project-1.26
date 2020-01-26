@@ -1,13 +1,12 @@
-# _Spring Campaign Landing Page_
+# _Pet Store Website_
 
-#### _This is a mock up of the Spring Campaign Landing Page_
+#### _This is a webpage to see some of the top pet toys_
 
 #### By _**Claire Sakaguchi**_
 
 ## Description
 
-This page is a prototype of the barre3 Spring Campaign landing page created as a demo.
-
+This page is a webpage that hosts dog toys and a few options for each
 
 
 ## Support and contact details
