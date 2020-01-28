@@ -19,4 +19,4 @@ _CSS and HTML_
 
 ### License
 
-Copyright (c) 2016 **_Claire Sakaguchiss_**
+Copyright (c) 2016 **_Claire Sakaguchi_**
